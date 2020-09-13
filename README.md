@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on all the pinned repositories you see!
 - 🌎 Website: www.titusstudios.net
 - 📫 How to reach me: https://www.titusstudios.net/contact
+- 📰 What am I doing? Follow my Twitter: [@TitusSudiosMG](https://twitter.com/TitusStudiosMG)
+- 🐾🏳‍🌈🧑
 
 <!--
 **TitusStudiosMediaGroup/TitusStudiosMediaGroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
