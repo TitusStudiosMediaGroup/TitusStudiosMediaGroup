@@ -2,6 +2,7 @@
 `Hi, I'm Titus. I code things.`
 
 - 🔭 I’m currently working on all the pinned repositories you see!
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)!
 - 🌎 Website: www.titusstudios.net
 - 📫 How to reach me: https://www.titusstudios.net/contact
 - 📰 Keep up-to-date with my stuff on Twitter: [@TitusSudiosMG](https://twitter.com/TitusStudiosMG)
