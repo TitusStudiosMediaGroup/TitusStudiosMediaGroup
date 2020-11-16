@@ -1,24 +1,4 @@
-### Hi there 👋
-`Hi, I'm Titus. I code things.`
-
-- 🔭 I’m currently working on all the pinned repositories you see!
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)!
-- 🌎 Website: www.titusstudios.net
-- 📫 How to reach me: https://www.titusstudios.net/contact
-- 📰 Keep up-to-date with my stuff on Twitter: [@TitusSudiosMG](https://twitter.com/TitusStudiosMG)
-
-<!--
-**TitusStudiosMediaGroup/TitusStudiosMediaGroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TitusStudiosMediaGroup&hide_border=true&bg_color=ffffff&count_private=true&show_icons=true&include_all_commits=true"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitusStudiosMediaGroup&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10">
+</p>
